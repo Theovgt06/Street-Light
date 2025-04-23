@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Dialogue : MonoBehaviour
+public class LampColor : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
